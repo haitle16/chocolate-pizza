@@ -1,0 +1,148 @@
+/* Header */
+html{
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 960px;
+}
+header{
+    height: 100px;
+}
+#logo{
+    float: left;
+    margin-top: 25px;
+}
+h2{
+    font-family: Brush Script MT;
+    font-size: 40px;
+    padding-top: 20px;
+    margin-left: 50px;
+    width: 100px;
+}
+div p{
+    font-size: 10px;
+    margin-left: 50px;
+}
+#logo1 li{
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+}
+#logo1{
+    position: relative;
+    top: -40px;
+    right: -738px;
+    width: 223px;
+}
+#line{
+    height: 15px;
+    background-image: linear-gradient(45deg, #888 25%, transparent 25%, transparent 50%, #888 50%, #888 75%, transparent 75%, transparent);
+    background-size: 4px 4px;
+    width: 960px;
+}
+/* MAIN */
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+#posted{
+    font-size: 10px;
+    display: inline-block;
+}
+#print{
+    float: right;
+    font-size: 10px;
+    display: inline-block;
+}
+#choco{
+    width: 100%;
+    margin-top: 20px;
+}
+section{
+    margin-top: 20px;
+    width: 960px;
+    text-indent: 30px;
+}
+section p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 21px;
+}
+#listImg{
+    margin-top: 20px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#list1{
+    list-style: square;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    line-height: 33px;
+    position: absolute;
+    top: 1237px;
+    right: 725px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#list2{
+    list-style: square;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    line-height: 33px;
+    position: absolute;
+    top: 1237px;
+    right: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.crossed{
+    text-decoration: line-through;
+}
+h3{
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-left: 85px;
+}
+#vanessa{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#vanessa p{
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 15px;
+    width: 600px;
+}
+#vanessa img{
+    float: left;
+}
+footer{
+    margin-top: 50px;
+}
+main button{
+    border: none;
+    padding: 15px 50px;
+    background-color: darksalmon; 
+    float: right;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+button:hover{
+    background: black;
+}
+/* FOOTTER */
+footer{
+    border-top: 3px solid gray;
+}
+footer img{
+    width: 25px;
+    float: left;
+    position: relative;
+    left: 50%;
+    top: -15px;
+}
+footer p{
+    margin-top: 40px;
+    text-align: center;
+}
